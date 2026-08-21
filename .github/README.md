@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/BABY-MUSIC/SPOTIFY_MUSIC?color=1DB954&logo=github&logoColor=white&style=for-the-badge&label=STARS)](https://github.com/BABY-MUSIC/SPOTIFY_MUSIC)
+[![Stars](https://img.shields.io/github/stars/BABY-MUSIC/SPOTIFY_MUSIC?color=1DB954&logo=github&logoColor=white&style=for-the-badge&label=STARS)](https://github.com/ankitchor/Saiya)
 [![Forks](https://img.shields.io/github/forks/BABY-MUSIC/SPOTIFY_MUSIC?color=1DB954&logo=github&logoColor=white&style=for-the-badge&label=FORKS)](https://github.com/BABY-MUSIC/SPOTIFY_MUSIC/network/members)
 [![License](https://img.shields.io/badge/LICENSE-MIT-1DB954?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/BABY-MUSIC/SPOTIFY_MUSIC/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/PYTHON-3.10+-1DB954?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
