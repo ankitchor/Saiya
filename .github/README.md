@@ -13,7 +13,7 @@
 
 <br/>
 
-> **SPOTIFY_MUSIC** is a powerful, feature-rich Telegram music bot built by **BabiesIQ Team**.  
+> **SPOTIFY_MUSIC** is a powerful, feature-rich Telegram music bot built by **YTNAISHA Team**.  
 > Stream high-quality audio & video directly in Telegram voice chats — from YouTube, Spotify, Apple Music, SoundCloud, Resso, and more.
 
 <br/>
