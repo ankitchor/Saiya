@@ -41,10 +41,10 @@ load_dotenv()
 API_ID = int(getenv("API_ID", None))
 API_HASH = getenv("API_HASH", None)
 BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_USERNAME = getenv("OWNER_USERNAME","@UTTAM470")
-BOT_USERNAME = getenv("BOT_USERNAME" , "BABY_MUSIC09_BOT")
-BOT_NAME = getenv("BOT_NAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
-ASSUSERNAME = getenv("ASSUSERNAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@vip_ankit_121")
+BOT_USERNAME = getenv("BOT_USERNAME" , "shremusicbot")
+BOT_NAME = getenv("BOT_NAME" , "╼⃝𖠁 SHRE ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
+ASSUSERNAME = getenv("ASSUSERNAME" , "╼⃝𖠁 ShRE ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
 # ---------------------------------------------------------
 YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com')
 YT_API_KEY = getenv("YT_API_KEY" , 'xbit_kp3GFnAvdnFVDV3L6xACy-jbVBE5q5Cd')
@@ -65,10 +65,10 @@ GIT_TOKEN = getenv(
 )
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+gF7M1_0PC803ZjU9")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/YTM_Points")
-SOURCE = getenv("SOURCE", "https://github.com/BABY-MUSIC/SPOTIFY_MUSIC")
-CHAT = getenv("CHAT", "https://t.me/+q43QONRtkrg5NGFk")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/YTNAISHA")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/shree_update")
+SOURCE = getenv("SOURCE", "https://github.com/ankitchor/Saiya/edit")
+CHAT = getenv("CHAT", "https://t.me/ytnaisha")
 # --------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
