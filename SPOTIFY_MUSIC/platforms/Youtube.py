@@ -16,7 +16,7 @@ DOWNLOAD_DIR = "downloads"
 LOGGER = logging.getLogger(__name__)
 
 API_URL = os.environ.get("SHRUTI_API_URL", "https://api.shrutibots.site")
-API_KEY = os.environ.get("SHRUTI_API_KEY", "ShrutiBotsmKSBhBaGhKcXoYLNDLMX")
+API_KEY = os.environ.get("SHRUTI_API_KEY", "ShrutiBotsBRZ3aFj841W6qHqPqGtS")
 
 # Worker API (Now Primary)
 WORKER_FALLBACK_API_URL = os.getenv("WORKER_FALLBACK_API_URL", "https://youtubenewapi.skybotsdeveloper.workers.dev")
